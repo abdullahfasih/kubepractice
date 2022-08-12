@@ -1,0 +1,16 @@
+
+kubectl get all
+this command will show all resources
+
+kubectl get deployments
+this command will show all the deployments
+
+kubectl describe <resource-name>
+this command will give you all the details of resource attached to that resource name
+
+kubectl logs <resource-name>
+this will give the logs related to that resource name
+
+kubectl delete <resource-name>
+this command will delete the resource
+
